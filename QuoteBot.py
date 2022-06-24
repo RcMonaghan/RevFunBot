@@ -1,7 +1,7 @@
 import aiosqlite, discord
 import random
 from discord.ext import commands
-Token = "ODMxMzQzMTA2NjI4Mzg2ODI3.YHT2mg.9MIn9Z-Qcg038Q5n6drEx69yRPg"
+Token = "DISCORD BOT TOKEN PURGED"
 bot = commands.Bot(command_prefix=".")
 
 @bot.event
