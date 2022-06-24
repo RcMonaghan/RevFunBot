@@ -6,7 +6,7 @@ import bs4
 from bs4 import BeautifulSoup
 
 #API
-token = "ODMxMzQzMTA2NjI4Mzg2ODI3.YHT2mg.9MIn9Z-Qcg038Q5n6drEx69yRPg"
+token = "DISCORD BOT TOKEN PURGED"
 
 whitelist = [764138620549988384,
              144502614204219392]
@@ -14,7 +14,7 @@ whitelist = [764138620549988384,
 #TardBot
 payload = {
     'login_username': 'TardBot',
-    'login_password': 'wanted1'
+    'login_password': 'PASSWORD PURGED'
     }
 
 Crews = [
